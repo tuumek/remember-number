@@ -7,3 +7,4 @@ contract RememberNumber {
     function setNumber(uint256 _number) external {
         number = _number;
     }
+
